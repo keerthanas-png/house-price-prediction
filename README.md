@@ -113,7 +113,7 @@ Provides actionable recommendations for buyers.
 This transforms the project from a predictive model into a practical decision-support system.
 
 🛠 Technologies Used
-Python
+Python 
 Pandas
 NumPy
 Matplotlib
